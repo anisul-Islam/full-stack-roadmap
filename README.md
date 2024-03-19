@@ -1,2 +1,3 @@
 # Full-stack Roadmap
-![image](https://github.com/anisul-Islam/full-stack-roadmap/assets/28184926/e8c38401-b6b8-41d3-8552-a932be0addec)
+![image](https://github.com/anisul-Islam/full-stack-roadmap/assets/28184926/ba04a6fa-2466-4530-9403-5c4fbb9871ee)
+
