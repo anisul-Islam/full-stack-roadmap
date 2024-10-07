@@ -11,8 +11,8 @@
 3. Javascript
 4. React.js
 5. Project: Netlify Clone
-6. Learn Figma
-7. CSS Framework
+6. Learn Figma for UI/UX
+7. CSS Framework - Bootstrap / Tailwind CSS / Materialize
 8. SEO Friendly site
 9. Services => Deployment
 
