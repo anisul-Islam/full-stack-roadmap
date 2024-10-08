@@ -18,8 +18,16 @@
     - CSS Preprocessor => SASS
     - CSS Framework => Bootstrap / Tailwind CSS / Materialize
 5. Javascript
-6. APIs => Fetchig Data from API (REST, GraphQL),  Handling API Requests and Responses, Authentication and Authorization
-7. Others
+    - Syntax and Variables, Data Types
+    - Control statement
+    - Function
+    - ES6 Features
+    - DOM and Event Handling
+    - Exception Handling
+    - Asycnhronous Programming (HOF, Callback functions, Promise, async/await)
+    - Fetch API and JSON
+7. APIs => Fetchig Data from API (REST, GraphQL),  Handling API Requests and Responses, Authentication and Authorization
+8. Others
     - Browser => Debugging, profiling
     - Package Manager => NPM/YARN
     - Build tools => webpack, babel. Task runners (gulp etc.)
