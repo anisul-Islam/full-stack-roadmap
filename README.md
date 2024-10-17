@@ -17,8 +17,8 @@
     - Box Model
     - Layout: Positioning, Flex, Grid
     - Responsive Web design => Media Query (FreeCodecamp certification), Mobile First Design, Viewport Meta Tag
-    - CSS Preprocessor => SASS
-    - CSS Framework => Bootstrap / Tailwind CSS / Materialize
+    - (Optional) CSS Preprocessor => SASS
+    - (Optional) CSS Framework => Bootstrap / Tailwind CSS / Materialize
 6. Javascript
     - Basics
         - Syntax and Variables
