@@ -6,7 +6,7 @@
     - Basic Git Commands
     - Branching and Merging
 3. HTML
-    - Elements
+    - Elements => Semantic vs Non-Semantic
     - Attributes
     - Forms
     - Web Accessibility => ARIA, WCAG Guidelines
@@ -17,6 +17,7 @@
     - Box Model
     - Layout: Positioning, Flex, Grid
     - Responsive Web design => Media Query (FreeCodecamp certification), Mobile First Design, Viewport Meta Tag
+    - BEM Architecture
     - (Optional) CSS Preprocessor => SASS
     - (Optional) CSS Framework => Bootstrap / Tailwind CSS / Materialize
 6. Javascript
@@ -29,7 +30,7 @@
         - Exception Handling
         - DOM and Event Handling
     - ES6 Features
-        - template, object literals
+        - template or string literals, object literals
         - Arrow Function,
         - Destructure,
         - Spread Operators
@@ -49,12 +50,30 @@
     - Package Manager => NPM/YARN
     - Build tools => webpack, babel. Task runners (gulp etc.)
 10. React.js
+    - JSX and JS Expression
     - Components
-    - Props and State
+        - Functional vs Class components
+        - Controlled vs Uncontrolled components
+        - Pure vs Impure Components
+        - Higher Order Components
+    - Props
+    - State, State lifting
     - Lifecycle methods
     - Hooks (useState, useEffect)
+        - why state?
+        - How to update the state? [state, setState] = useState()
+        - using object,array in the state
+        - updater function for the setState
     - Routing (React router)
-    - Context API
+        - basic routing
+        - nested routing
+        - navigating, passing and receiving data when navigating
+        - get parameters from URL
+        - dynamic routing
+        - route protection
+        - handle navbar programmatically
+    - Context API (useContext hook)
+    - best practices in React, better folder structure
 12. Web Performance => Lazy Loading, Minification and compression, Image Optimization, Page speed and Loading Times
 13. Project: Netlify Clone
 14. Learn Figma for UI/UX
